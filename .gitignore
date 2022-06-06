@@ -153,3 +153,4 @@ cython_debug/
 
 rps.zip
 rps
+inception_v3.h5
